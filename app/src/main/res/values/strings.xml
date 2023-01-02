@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">androidHelloWord</string>
+    <string name="tts_notEnabled">Not enabled!</string>
+    <string name="tts_ready">Ready!</string>
+    <string name="tts_placeholder">Write something!</string>
+    <string name="tts_messageWarning">Are you serious! Input a text.</string>
+    <string name="hint_message">Write something...</string>
+    <string name="button_play">Play</string>
+    <string name="text_hello_kotlin">Hello Kotlin!</string>
+</resources>
